@@ -3,7 +3,7 @@
     "id": "6a6842f919629e3dc475c9dc",
     "scavId": "6a6842f919629e3dc475c9dd",
     "aid": 1953004,
-    "username": "xBRAZZERSx",
+    "username": "ELPAPACALVO",
     "wipe": false,
     "edition": "Unheard"
   },
@@ -16,8 +16,8 @@
       "savage": "6a6842f919629e3dc475c9dd",
       "karmaValue": 0.2,
       "Info": {
-        "Nickname": "xBRAZZERSx",
-        "LowerNickname": "xbrazzersx",
+        "Nickname": "ELPAPACALVO",
+        "LowerNickname": "ELPAPACALVO",
         "Side": "Bear",
         "Level": 7,
         "Experience": 38451,
@@ -118,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1785290645,
+        "UpdateTime": 1785290045,
         "Immortal": false
       },
       "Inventory": {
@@ -1195,15 +1195,10 @@
           {
             "_id": "6a68449119629e3dc475eb06",
             "_tpl": "56dff3afd2720bba668b4567",
-            "parentId": "6a68449119629e3dc475ea68",
-            "slotId": "main",
-            "location": {
-              "x": 1,
-              "y": 2,
-              "r": "Horizontal"
-            },
+            "parentId": "6a68449119629e3dc475eb05",
+            "slotId": "cartridges",
             "upd": {
-              "StackObjectsCount": 7
+              "StackObjectsCount": 30
             }
           },
           {
@@ -1615,7 +1610,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 60
+              "StackObjectsCount": 37
             }
           },
           {
@@ -3218,8 +3213,13 @@
           {
             "_id": "6a692e5c86031a1abc12c6b8",
             "_tpl": "59e763f286f7742ee57895da",
-            "parentId": "6a68449119629e3dc475ea53",
-            "slotId": "Backpack",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 4,
+              "y": 52,
+              "r": "Horizontal"
+            },
             "upd": {
               "SpawnedInSession": true
             }
@@ -3928,13 +3928,8 @@
           {
             "_id": "6a692acaa5bc0432a0a176ba",
             "_tpl": "5d5d940f86f7742797262046",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
-            "location": {
-              "x": 4,
-              "y": 52,
-              "r": "Horizontal"
-            }
+            "parentId": "6a68449119629e3dc475ea53",
+            "slotId": "Backpack"
           },
           {
             "_id": "6a692e5d86031a1abc12e68d",
@@ -5141,8 +5136,7 @@
         "fastPanel": {
           "Item4": "6a692acaa5bc0432a0a176b8",
           "Item6": "6a692e5c86031a1abc12c712",
-          "Item5": "6a692acaa5bc0432a0a176da",
-          "Item7": "6a692acaa5bc0432a0a176c5"
+          "Item5": "6a692acaa5bc0432a0a176da"
         },
         "favoriteItems": [],
         "hideoutCustomizationStashId": "676db384777490e23c45b657"
@@ -5162,37 +5156,37 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 2.060975,
             "LastAccess": 1785280359,
             "Id": "Endurance",
             "Progress": 183.6952
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 5.173977,
             "LastAccess": 1785281619,
             "Id": "Strength",
             "Progress": 125.530785
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 0.0117799658,
             "LastAccess": 1785281253,
             "Id": "Vitality",
             "Progress": 85.7282639
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 2.54690146,
             "LastAccess": 1785281619,
             "Id": "Health",
             "Progress": 138.838516
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 0.145200014,
             "LastAccess": 1785281675,
             "Id": "StressResistance",
             "Progress": 79.95149
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 10.2680054,
             "LastAccess": 1785281581,
             "Id": "Metabolism",
             "Progress": 429.216553
@@ -5204,7 +5198,7 @@
             "Progress": 15.2855606
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 3.917838,
             "LastAccess": 1785281675,
             "Id": "Perception",
             "Progress": 165.527039
@@ -5216,13 +5210,13 @@
             "Progress": 3
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 3.53505969,
             "LastAccess": 1785281575,
             "Id": "Attention",
             "Progress": 344.9815
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 2.27944922,
             "LastAccess": 1785281675,
             "Id": "Charisma",
             "Progress": 107.3196
@@ -5246,7 +5240,7 @@
             "Progress": 48.5249863
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 1.1,
             "LastAccess": 1785281495,
             "Id": "Assault",
             "Progress": 120.937096
@@ -5264,7 +5258,7 @@
             "Progress": 300
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 0.26,
             "LastAccess": 1785280501,
             "Id": "LMG",
             "Progress": 7.8
@@ -5288,7 +5282,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 0.26,
             "LastAccess": 1785281143,
             "Id": "Throwing",
             "Progress": 16.9000015
@@ -5306,7 +5300,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 1.11999989,
             "LastAccess": 1785281148,
             "Id": "AimDrills",
             "Progress": 63.5200081
@@ -5330,13 +5324,13 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 4.31433058,
             "LastAccess": 1785281575,
             "Id": "Search",
             "Progress": 158.775543
           },
           {
-            "PointsEarnedDuringSession": 0,
+            "PointsEarnedDuringSession": 0.892,
             "LastAccess": 1785281423,
             "Id": "MagDrills",
             "Progress": 48.6162033
@@ -9865,7 +9859,7 @@
         "HideoutCounters": null,
         "Seed": "24816ece14aa1795bbd82e56bb025a31",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785290980,
+        "sptUpdateLastRunTimestamp": 1785290117,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -10849,7 +10843,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1725468674,
+        "nextResetTime": 1725295874,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -14285,7 +14279,12 @@
   "insurance": [],
   "btrDelivery": [],
   "traderPurchases": {
-    "54cb50c76803fa8b248b4571": {},
+    "54cb50c76803fa8b248b4571": {
+      "686e34626c2a18ed6b0eacb9": {
+        "count": 1,
+        "purchaseTimestamp": 1785276472
+      }
+    },
     "5c0647fdd443bc2504c2d371": {},
     "5935c25fb3acc3127c3d8cd9": {},
     "6617beeaa9cfa777ca915b7c": {},
