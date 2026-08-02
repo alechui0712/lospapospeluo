@@ -117,7 +117,7 @@
             }
           }
         },
-        "UpdateTime": 1785639854,
+        "UpdateTime": 1785641904,
         "Immortal": false
       },
       "Inventory": {
@@ -10788,12 +10788,6 @@
           "type": "HandoverItem",
           "value": 0,
           "sourceId": "5936da9e86f7742d65037edf"
-        },
-        "6a6d456585bdc239d811f862": {
-          "id": "6a6d456585bdc239d811f862",
-          "type": "CounterCreator",
-          "value": 0,
-          "sourceId": "6a6d456585bdc239d811f85e"
         }
       },
       "InsuredItems": [],
@@ -11293,7 +11287,7 @@
         "HideoutCounters": null,
         "Seed": "d1c470726bf3575f2690e0a729a9ca4a",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785640762,
+        "sptUpdateLastRunTimestamp": 1785641978,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
