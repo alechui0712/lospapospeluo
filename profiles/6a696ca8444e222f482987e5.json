@@ -20,7 +20,7 @@
         "LowerNickname": "alechu",
         "Side": "Bear",
         "Level": 14,
-        "Experience": 138386,
+        "Experience": 145427,
         "RegistrationDate": 1785294055,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -61,11 +61,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 0,
+          "Current": 13,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 23,
+          "Current": 37,
           "Maximum": 100
         },
         "Temperature": {
@@ -118,7 +118,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1785712194,
+        "UpdateTime": 1785712959,
         "Immortal": false
       },
       "Inventory": {
@@ -8460,7 +8460,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 4,
+              "StackObjectsCount": 9,
               "SpawnedInSession": false
             }
           },
@@ -8700,7 +8700,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 545413,
+              "StackObjectsCount": 628133,
               "SpawnedInSession": false
             }
           },
@@ -9995,6 +9995,68 @@
           {
             "_id": "664113fa049fd2369707c4ec",
             "_tpl": "5963866286f7747bf429b572"
+          },
+          {
+            "_id": "6a6fd206f0c9312ebc15fef6",
+            "_tpl": "544fb45d4bdc2dee738b4568",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 2,
+              "y": 71,
+              "r": "Vertical"
+            },
+            "upd": {
+              "SpawnedInSession": true,
+              "MedKit": {
+                "HpResource": 400
+              }
+            }
+          },
+          {
+            "_id": "6a6fd241f0c9312ebc15ff0c",
+            "_tpl": "5e2af37686f774755a234b65",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 71,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a6fd215f0c9312ebc15ff01",
+            "_tpl": "590c5f0d86f77413997acfab",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 6,
+              "y": 71,
+              "r": "Vertical"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
+          },
+          {
+            "_id": "6a6fd215f0c9312ebc15ff02",
+            "_tpl": "590c5f0d86f77413997acfab",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 8,
+              "y": 71,
+              "r": "Vertical"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
           }
         ],
         "equipment": "6a696ce7444e222f482987e7",
@@ -13778,7 +13840,7 @@
         "5d24bb4886f77439c92d6bad": {
           "id": "5d24bb4886f77439c92d6bad",
           "type": "HandoverItem",
-          "value": 1,
+          "value": 2,
           "sourceId": "5d24b81486f77439c92d6ba8"
         },
         "5d24bb7286f7741f7956be74": {
@@ -13976,7 +14038,7 @@
         "6a6fba59af0e5c289c45893c": {
           "id": "6a6fba59af0e5c289c45893c",
           "type": "HandoverItem",
-          "value": 0,
+          "value": 1,
           "sourceId": "6a6fba59af0e5c289c45893a"
         },
         "6a6fba59af0e5c289c45894a": {
@@ -14483,7 +14545,7 @@
         "HideoutCounters": null,
         "Seed": "d1c470726bf3575f2690e0a729a9ca4a",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1785712707,
+        "sptUpdateLastRunTimestamp": 1785718659,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -14696,9 +14758,10 @@
         {
           "qid": "5d24b81486f77439c92d6ba8",
           "startTime": 1785445597,
-          "status": 2,
+          "status": 4,
           "statusTimers": {
-            "2": 1785445597
+            "2": 1785445597,
+            "4": 1785713217
           },
           "completedConditions": [
             "5d24bb7286f7741f7956be74",
@@ -14927,9 +14990,10 @@
         {
           "qid": "6a6fba59af0e5c289c45893a",
           "startTime": 1785707111,
-          "status": 2,
+          "status": 4,
           "statusTimers": {
-            "2": 1785707111
+            "2": 1785707111,
+            "4": 1785713173
           },
           "completedConditions": [],
           "availableAfter": 0
@@ -14953,6 +15017,51 @@
           },
           "completedConditions": [],
           "availableAfter": 0
+        },
+        {
+          "qid": "5bc4776586f774512d07cf05",
+          "startTime": 1785713224,
+          "status": 2,
+          "statusTimers": {
+            "2": 1785713224
+          },
+          "completedConditions": []
+        },
+        {
+          "qid": "5d25aed386f77442734d25d2",
+          "startTime": 1785713227,
+          "status": 2,
+          "statusTimers": {
+            "2": 1785713227
+          },
+          "completedConditions": []
+        },
+        {
+          "qid": "66b38c7bf85b8bf7250f9cb6",
+          "startTime": 1785713229,
+          "status": 2,
+          "statusTimers": {
+            "2": 1785713229
+          },
+          "completedConditions": []
+        },
+        {
+          "qid": "675c1cf4a757ddd00404f0a3",
+          "startTime": 1785713230,
+          "status": 2,
+          "statusTimers": {
+            "2": 1785713230
+          },
+          "completedConditions": []
+        },
+        {
+          "qid": "5bc479e586f7747f376c7da3",
+          "startTime": 1785713232,
+          "status": 2,
+          "statusTimers": {
+            "2": 1785713232
+          },
+          "completedConditions": []
         }
       ],
       "TradersInfo": {
@@ -15015,7 +15124,7 @@
         "58330581ace78e27b8b10cee": {
           "loyaltyLevel": 1,
           "salesSum": 565678,
-          "standing": 0.42,
+          "standing": 0.45,
           "nextResupply": 1785299871,
           "unlocked": true,
           "disabled": false
@@ -15031,7 +15140,7 @@
         "5c0647fdd443bc2504c2d371": {
           "loyaltyLevel": 1,
           "salesSum": 121480,
-          "standing": 0.21,
+          "standing": 0.22,
           "nextResupply": 1785298921,
           "unlocked": true,
           "disabled": false
@@ -16673,7 +16782,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1770137474,
+        "nextResetTime": 1771260674,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -17797,10 +17906,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a6bec687575cc21f4d5917e",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -18105,6 +18211,21 @@
           "hasRewards": false,
           "rewardCollected": false,
           "items": {}
+        },
+        {
+          "_id": "6a6fd215f0c9312ebc15fefd",
+          "uid": "58330581ace78e27b8b10cee",
+          "type": 12,
+          "dt": 1785713173,
+          "templateId": "61604635c725987e815b1a46 successMessageText 58330581ace78e27b8b10cee 0",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a6fd215f0c9312ebc15fefe",
+            "data": []
+          },
+          "maxStorageTime": 259200
         }
       ],
       "_id": "58330581ace78e27b8b10cee"
@@ -18204,10 +18325,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a6be3fbfd45232694d96e65",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -18219,10 +18337,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a6be3fffd45232694d96e75",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -18391,6 +18506,76 @@
           "type": 10,
           "dt": 1785455677,
           "templateId": "67f3ea581cd4c15d3d040305 description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a6fd241f0c9312ebc15ff09",
+          "uid": "5c0647fdd443bc2504c2d371",
+          "type": 12,
+          "dt": 1785713217,
+          "templateId": "5d24b81486f77439c92d6ba8 successMessageText",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a6fd241f0c9312ebc15ff0a",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "6a6fd248f0c9312ebc15ff0d",
+          "uid": "5c0647fdd443bc2504c2d371",
+          "type": 10,
+          "dt": 1785713224,
+          "templateId": "5bc4776586f774512d07cf05 description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a6fd24bf0c9312ebc15ff0e",
+          "uid": "5c0647fdd443bc2504c2d371",
+          "type": 10,
+          "dt": 1785713227,
+          "templateId": "5d25aed386f77442734d25d2 description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a6fd24df0c9312ebc15ff0f",
+          "uid": "5c0647fdd443bc2504c2d371",
+          "type": 10,
+          "dt": 1785713229,
+          "templateId": "66b38c7bf85b8bf7250f9cb6 description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a6fd24ef0c9312ebc15ff10",
+          "uid": "5c0647fdd443bc2504c2d371",
+          "type": 10,
+          "dt": 1785713230,
+          "templateId": "675c1cf4a757ddd00404f0a3 description",
+          "text": "",
+          "hasRewards": false,
+          "rewardCollected": false,
+          "items": {}
+        },
+        {
+          "_id": "6a6fd250f0c9312ebc15ff11",
+          "uid": "5c0647fdd443bc2504c2d371",
+          "type": 10,
+          "dt": 1785713232,
+          "templateId": "5bc479e586f7747f376c7da3 description",
           "text": "",
           "hasRewards": false,
           "rewardCollected": false,
@@ -18866,6 +19051,48 @@
             "data": []
           },
           "maxStorageTime": 604800
+        },
+        {
+          "_id": "6a6fd1f0f0c9312ebc15fc65",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785713136,
+          "text": "SPT GIVE",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "664113fa049fd2369707c4eb",
+            "data": []
+          },
+          "maxStorageTime": 172800
+        },
+        {
+          "_id": "6a6fd206f0c9312ebc15fef5",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785713158,
+          "text": "SPT GIVE DELIVERY: 544fb45d4bdc2dee738b4568",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a6fd206f0c9312ebc15fef4",
+            "data": []
+          },
+          "maxStorageTime": 172800
+        },
+        {
+          "_id": "6a6fd238f0c9312ebc15ff05",
+          "uid": "59e7125688a45068a6249071",
+          "type": 7,
+          "dt": 1785713208,
+          "text": "SPT GIVE DELIVERY: 656df4fec921ad01000481a2",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "6a6fd238f0c9312ebc15ff04",
+            "data": []
+          },
+          "maxStorageTime": 172800
         }
       ],
       "_id": "59e7125688a45068a6249071"
@@ -19098,6 +19325,12 @@
         "author": "Tyfon",
         "dateAdded": 1785650995,
         "url": "https://github.com/tyfon7/uifixes"
+      },
+      {
+        "name": "give-ui",
+        "version": "4.0.0",
+        "author": "agavalda",
+        "dateAdded": 1785712959
       }
     ],
     "receivedGifts": [
