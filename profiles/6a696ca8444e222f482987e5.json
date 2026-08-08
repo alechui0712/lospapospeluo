@@ -123,7 +123,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1786588172,
+        "UpdateTime": 1786589959,
         "Immortal": false
       },
       "Inventory": {
@@ -6220,7 +6220,7 @@
             "upd": {
               "SpawnedInSession": true,
               "RepairKit": {
-                "Resource": 991.36159706115723
+                "Resource": 991.3615970611572
               }
             }
           },
@@ -9796,6 +9796,10 @@
             "upd": {
               "StackObjectsCount": 1000000
             }
+          },
+          {
+            "_id": "5d494a295b56502f18c98a08",
+            "_tpl": "63dbd45917fff4dee40fe16e"
           }
         ],
         "equipment": "6a696ce7444e222f482987e7",
@@ -9805,7 +9809,8 @@
         "questStashItems": "664113fa049fd2369707c4ed",
         "hideoutAreaStashes": {
           "27": "66c903b7cbd137db330413a2",
-          "26": "65e5bb1713227bb7690cea0a"
+          "26": "65e5bb1713227bb7690cea0a",
+          "16": "5d494a295b56502f18c98a08"
         },
         "fastPanel": {
           "Item4": "6a721d0f7c9c771618b3cdef",
@@ -10083,10 +10088,10 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 0.888888888888889,
-            "LastAccess": 1786588180,
+            "PointsEarnedDuringSession": 39.86666999999999,
+            "LastAccess": 1786590060,
             "Id": "HideoutManagement",
-            "Progress": 870.22218888888892
+            "Progress": 909.1999700000001
           }
         ],
         "Mastering": [
@@ -15983,11 +15988,11 @@
           },
           {
             "type": 5,
-            "level": 2,
+            "level": 3,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1786186133,
-            "constructing": true,
+            "completeTime": 0,
+            "constructing": false,
             "slots": [],
             "lastRecipe": ""
           },
@@ -16023,11 +16028,11 @@
           },
           {
             "type": 8,
-            "level": 1,
+            "level": 2,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1786386484,
-            "constructing": true,
+            "completeTime": 0,
+            "constructing": false,
             "slots": [],
             "lastRecipe": ""
           },
@@ -16107,11 +16112,11 @@
           },
           {
             "type": 16,
-            "level": 0,
+            "level": 1,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1786200508,
-            "constructing": true,
+            "completeTime": 0,
+            "constructing": false,
             "slots": [],
             "lastRecipe": ""
           },
@@ -16401,7 +16406,7 @@
         "MannequinPoses": {
           "6a76b18e230e7b18c0ddcd5c": "67600aa8e9db590d5601665f"
         },
-        "sptUpdateLastRunTimestamp": 1786157356,
+        "sptUpdateLastRunTimestamp": 1786590070,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -19898,6 +19903,65 @@
           "type": "TextBonus",
           "value": 1,
           "icon": "/files/Hideout/Icon_Preset-stand_Mannequin_Small.png"
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756d9",
+          "type": "EnergyRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 20
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756da",
+          "type": "HealthRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 7
+        },
+        {
+          "id": "6548ae1b0d23be12146d70ee",
+          "type": "SkillGroupLevelingBoost",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 0,
+          "skillType": 1
+        },
+        {
+          "id": "6548afcae28f7800b02d2004",
+          "type": "TextBonus",
+          "value": 3,
+          "icon": "/files/Hideout/EfT_UI_Icons_DogTag.png"
+        },
+        {
+          "id": "6548afd9eb937c71d7776652",
+          "type": "TextBonus",
+          "value": 6,
+          "icon": "/files/Hideout/EfT_UI_Icons_SmallTrophy.png"
+        },
+        {
+          "id": "6548afe3e7726b6d1b4317d5",
+          "type": "TextBonus",
+          "value": 6,
+          "icon": "/files/Hideout/EfT_UI_Icons_BigTrophy.png"
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756b1",
+          "type": "EnergyRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 12
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756b2",
+          "type": "DebuffEndDelay",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -50
         }
       ],
       "Notes": {
@@ -19911,7 +19975,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1786467074,
+        "nextResetTime": 1786639874,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -23543,10 +23607,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a769780fc6c1c0c28ed6cb4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -23558,10 +23619,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a769783fc6c1c0c28ed6cd3",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30034,10 +30092,7 @@
           "text": "Tu oferta de 1 Llavero de Gingy ha sido comprada por Bingus.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a76981afc6c1c0c28ed7e81",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30048,10 +30103,7 @@
           "text": "Tu oferta de 1 Hacha Crash Axe ★ ha sido comprada por r2go.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a76981afc6c1c0c28ed7e89",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30062,10 +30114,7 @@
           "text": "Tu oferta de 1 Batería recargable ★ ha sido comprada por DanCam38.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a76981afc6c1c0c28ed7e90",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30076,10 +30125,7 @@
           "text": "Tu oferta de 2 Kit de costura ★ ha sido comprada por GromAV.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a76981afc6c1c0c28ed7e94",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30090,10 +30136,7 @@
           "text": "Tu oferta de 1 Empuñadura Magpul RVG (FDE) ☆ ha sido comprada por 王哈桑ザ.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a769824fc6c1c0c28ed7e9c",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30104,10 +30147,7 @@
           "text": "Tu oferta de 1 Lata de papardas del Pacífico ★ ha sido comprada por DocYen.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a769824fc6c1c0c28ed7ea0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30118,10 +30158,7 @@
           "text": "Tu oferta de 1 Inyector de adrenalina ★ ha sido comprada por Valens.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a769824fc6c1c0c28ed7ea4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30132,10 +30169,7 @@
           "text": "Tu oferta de 1 Casco Team Wendy EXFIL Ballistic (Coyote Brown) ★ ha sido comprada por lualeet.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a769824fc6c1c0c28ed7ea8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30146,10 +30180,7 @@
           "text": "Tu oferta de 1 Lata de estofado de ternera (Grande) ★ ha sido comprada por Harmer.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a76982efc6c1c0c28ed7eae",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -30160,10 +30191,7 @@
           "text": "Tu oferta de 1 Tigzresq splint ★ ha sido comprada por 老人.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a76982efc6c1c0c28ed7eb2",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         }
       ],
