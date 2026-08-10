@@ -123,7 +123,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1786315758,
+        "UpdateTime": 1786331482,
         "Immortal": false
       },
       "Inventory": {
@@ -10410,7 +10410,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 1000000
+              "StackObjectsCount": 574547
             }
           },
           {
@@ -11229,20 +11229,6 @@
             },
             "upd": {
               "StackObjectsCount": 1000000
-            }
-          },
-          {
-            "_id": "6a78f45f318ab72174755e70",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 49,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 384335
             }
           },
           {
@@ -12855,6 +12841,36 @@
                 "NumberOfUsages": 0
               }
             }
+          },
+          {
+            "_id": "6a79436bfe8a2c0390f6f1cb",
+            "_tpl": "5c0e530286f7747fa1419862",
+            "parentId": "6a7905e5318ab721747a9030",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 2,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
+          },
+          {
+            "_id": "6a79436bfe8a2c0390f6f1cc",
+            "_tpl": "5c0e530286f7747fa1419862",
+            "parentId": "6a7905e5318ab721747a9030",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 2,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
           }
         ],
         "equipment": "6a696ce7444e222f482987e7",
@@ -13146,9 +13162,9 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1786590060,
+            "LastAccess": 1786332029,
             "Id": "HideoutManagement",
-            "Progress": 909.199951
+            "Progress": 921.199951
           }
         ],
         "Mastering": [
@@ -17925,8 +17941,8 @@
             "level": 2,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 0,
-            "constructing": false,
+            "completeTime": 1786357366,
+            "constructing": true,
             "slots": [],
             "lastRecipe": ""
           },
@@ -17992,11 +18008,11 @@
           },
           {
             "type": 6,
-            "level": 1,
+            "level": 2,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1786324883,
-            "constructing": true,
+            "completeTime": 0,
+            "constructing": false,
             "slots": [
               {
                 "locationIndex": 0
@@ -18400,7 +18416,7 @@
         "MannequinPoses": {
           "6a76b18e230e7b18c0ddcd5c": "67600aa8e9db590d5601665f"
         },
-        "sptUpdateLastRunTimestamp": 1786320067,
+        "sptUpdateLastRunTimestamp": 1786333564,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -19846,7 +19862,7 @@
               }
             ],
             "root": "6a78ec17318ab7217471ecb5",
-            "intId": 922,
+            "intId": 58,
             "itemsCost": 30000,
             "requirementsCost": 132649,
             "startTime": 1786309698,
@@ -22230,6 +22246,14 @@
           "production": false,
           "visible": true,
           "value": -50
+        },
+        {
+          "id": "64f5b9e5fa34f11b380756ca",
+          "type": "HydrationRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 20
         }
       ],
       "Notes": {
@@ -37199,20 +37223,7 @@
   "traderPurchases": {
     "54cb50c76803fa8b248b4571": {},
     "5c0647fdd443bc2504c2d371": {},
-    "5935c25fb3acc3127c3d8cd9": {
-      "686e344b6c2a18ed6b0ea2af": {
-        "count": 1,
-        "purchaseTimestamp": 1786312520
-      },
-      "686e34566c2a18ed6b0ea7ae": {
-        "count": 1,
-        "purchaseTimestamp": 1786312520
-      },
-      "686e344a6c2a18ed6b0ea259": {
-        "count": 1,
-        "purchaseTimestamp": 1786312563
-      }
-    },
+    "5935c25fb3acc3127c3d8cd9": {},
     "6617beeaa9cfa777ca915b7c": {},
     "54cb57776803fa99248b456e": {},
     "58330581ace78e27b8b10cee": {},
