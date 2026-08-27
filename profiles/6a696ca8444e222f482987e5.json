@@ -123,7 +123,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1787809315,
+        "UpdateTime": 1787812581,
         "Immortal": false
       },
       "Inventory": {
@@ -10826,7 +10826,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 1000000
+              "StackObjectsCount": 704973
             }
           },
           {
@@ -10987,20 +10987,6 @@
             "slotId": "hideout",
             "location": {
               "x": 7,
-              "y": 44,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 1000000
-            }
-          },
-          {
-            "_id": "6a8e18bfba12f620f4a4815f",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
               "y": 44,
               "r": "Horizontal"
             },
@@ -11270,20 +11256,6 @@
             }
           },
           {
-            "_id": "6a8e2a36ba12f620f4a9e7a8",
-            "_tpl": "5449016a4bdc2d6f028b456f",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 46,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 947236
-            }
-          },
-          {
             "_id": "6a8e2a36ba12f620f4a9e7a9",
             "_tpl": "5449016a4bdc2d6f028b456f",
             "parentId": "664113fa049fd2369707c4eb",
@@ -11442,11 +11414,11 @@
           {
             "_id": "6a8e2a84ba12f620f4a9f69b",
             "_tpl": "617fd91e5539a84ec44ce155",
-            "parentId": "6a696ce7444e222f48298807",
-            "slotId": "pocket1",
+            "parentId": "6a8e4551ba12f620f4b74601",
+            "slotId": "2",
             "location": {
               "x": 0,
-              "y": 0,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -12274,11 +12246,11 @@
           {
             "_id": "6a8e4551ba12f620f4b745e9",
             "_tpl": "59e690b686f7746c9f75e848",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
+            "parentId": "6a72801038d7ba2bc458e398",
+            "slotId": "main",
             "location": {
               "x": 1,
-              "y": 57,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -12398,8 +12370,8 @@
           {
             "_id": "6a8e4551ba12f620f4b745f4",
             "_tpl": "544fb45d4bdc2dee738b4568",
-            "parentId": "6a696ce7444e222f48298807",
-            "slotId": "pocket3",
+            "parentId": "6a8e4551ba12f620f4b74601",
+            "slotId": "1",
             "location": {
               "x": 0,
               "y": 0,
@@ -12416,8 +12388,8 @@
           {
             "_id": "6a8e4551ba12f620f4b745f5",
             "_tpl": "590c678286f77426c9660122",
-            "parentId": "6a696ce7444e222f48298807",
-            "slotId": "pocket4",
+            "parentId": "6a8e4551ba12f620f4b74601",
+            "slotId": "2",
             "location": {
               "x": 0,
               "y": 0,
@@ -12738,13 +12710,8 @@
           {
             "_id": "6a8e4551ba12f620f4b7460f",
             "_tpl": "5bb2475ed4351e00853264e3",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
-            "location": {
-              "x": 3,
-              "y": 54,
-              "r": "Vertical"
-            },
+            "parentId": "6a696ce7444e222f482987e7",
+            "slotId": "FirstPrimaryWeapon",
             "upd": {
               "sptPresetId": "5c0d1e9386f77440120288b7",
               "StackObjectsCount": 1,
@@ -12837,11 +12804,11 @@
           {
             "_id": "6a8e4557ba12f620f4b7461d",
             "_tpl": "59e690b686f7746c9f75e848",
-            "parentId": "664113fa049fd2369707c4eb",
-            "slotId": "hideout",
+            "parentId": "6a72801038d7ba2bc458e398",
+            "slotId": "main",
             "location": {
               "x": 0,
-              "y": 57,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -12861,10 +12828,10 @@
           {
             "_id": "6a8e4557ba12f620f4b7461f",
             "_tpl": "544fb45d4bdc2dee738b4568",
-            "parentId": "6a696ce7444e222f48298807",
-            "slotId": "pocket2",
+            "parentId": "6a8e4551ba12f620f4b74601",
+            "slotId": "1",
             "location": {
-              "x": 0,
+              "x": 1,
               "y": 0,
               "r": "Horizontal"
             },
@@ -12894,8 +12861,13 @@
           {
             "_id": "6a8fc61a4ff8581f04e92444",
             "_tpl": "6a0b33c5263dc294754193ff",
-            "parentId": "6a696ce7444e222f482987e7",
-            "slotId": "FirstPrimaryWeapon",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 0,
+              "y": 66,
+              "r": "Horizontal"
+            },
             "upd": {
               "sptPresetId": "6a0e2eb3a2e61319689ffd1e",
               "StackObjectsCount": 1,
@@ -12909,11 +12881,11 @@
           {
             "_id": "6a8fc61a4ff8581f04e92445",
             "_tpl": "6a0b8880a02e563a2a145010",
-            "parentId": "6a8e4551ba12f620f4b74601",
-            "slotId": "4",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 5,
+              "y": 66,
               "r": "Horizontal"
             },
             "upd": {
@@ -12994,11 +12966,11 @@
           {
             "_id": "6a8fc66d4ff8581f04e92705",
             "_tpl": "6a0b88cfa02e563a2a145012",
-            "parentId": "6a72801038d7ba2bc458e398",
-            "slotId": "main",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 1,
+              "x": 2,
+              "y": 57,
               "r": "Horizontal"
             },
             "upd": {
@@ -13008,11 +12980,11 @@
           {
             "_id": "6a8fc66d4ff8581f04e92706",
             "_tpl": "6a0b88cfa02e563a2a145012",
-            "parentId": "6a72801038d7ba2bc458e398",
-            "slotId": "main",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
             "location": {
-              "x": 1,
-              "y": 1,
+              "x": 3,
+              "y": 57,
               "r": "Horizontal"
             },
             "upd": {
@@ -13041,11 +13013,11 @@
           {
             "_id": "6a8fc6784ff8581f04e92709",
             "_tpl": "6a0b8880a02e563a2a145010",
-            "parentId": "6a8e4551ba12f620f4b74601",
-            "slotId": "6",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 7,
+              "y": 66,
               "r": "Horizontal"
             },
             "upd": {
@@ -13056,11 +13028,11 @@
           {
             "_id": "6a8fc6784ff8581f04e9270a",
             "_tpl": "6a0b8880a02e563a2a145010",
-            "parentId": "6a8e4551ba12f620f4b74601",
-            "slotId": "5",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 6,
+              "y": 66,
               "r": "Horizontal"
             },
             "upd": {
@@ -13435,6 +13407,22 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": false
             }
+          },
+          {
+            "_id": "6a8fd3e902201c237096f645",
+            "_tpl": "59faff1d86f7746c51718c9c",
+            "parentId": "664113fa049fd2369707c4eb",
+            "slotId": "hideout",
+            "location": {
+              "x": 5,
+              "y": 43,
+              "rotation": false,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": true
+            }
           }
         ],
         "equipment": "6a696ce7444e222f482987e7",
@@ -13532,9 +13520,9 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1787708378,
+            "LastAccess": 1787810815,
             "Id": "Charisma",
-            "Progress": 477.6059
+            "Progress": 478.40590000000003
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -13724,9 +13712,9 @@
           },
           {
             "PointsEarnedDuringSession": 0.8,
-            "LastAccess": 1787809759,
+            "LastAccess": 1787817761,
             "Id": "HideoutManagement",
-            "Progress": 1028.3999999999999
+            "Progress": 1041.6
           }
         ],
         "Mastering": [
@@ -16724,13 +16712,13 @@
         "67dc255ee3028a8b120efc48": true,
         "69e2441a18cb3157560855ec": true,
         "5b9b9020e7ef6f5716480215": false,
-        "679b9716597ba2ed120c3d3f": false,
-        "679baa2c61f588ae2b062a24": false,
-        "679baa4f59b8961f370dd683": false,
-        "679baa5a59b8961f370dd685": false,
-        "679baa9091966fe40408f149": false,
-        "679baace4e9ca6b3d80586b2": false,
-        "679bab714e9ca6b3d80586b4": false
+        "679b9716597ba2ed120c3d3f": true,
+        "679baa2c61f588ae2b062a24": true,
+        "679baa4f59b8961f370dd683": true,
+        "679baa5a59b8961f370dd685": true,
+        "679baa9091966fe40408f149": true,
+        "679baace4e9ca6b3d80586b2": true,
+        "679bab714e9ca6b3d80586b4": true
       },
       "TaskConditionCounters": {
         "65141df0e69594cf853a40b9": {
@@ -18481,18 +18469,10 @@
       "Hideout": {
         "Production": {
           "5d5c205bd582a50d042a3c0e": {
-            "Products": [
-              {
-                "_id": "6a8fc5f24ff8581f04e923f7",
-                "_tpl": "59faff1d86f7746c51718c9c",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              }
-            ],
-            "Progress": 12030,
+            "Products": [],
+            "Progress": 23882,
             "inProgress": true,
-            "StartTimestamp": 1787810112,
+            "StartTimestamp": 1787819175,
             "SkipTime": 0,
             "ProductionTime": 144960,
             "GivenItemsInStart": [],
@@ -18500,6 +18480,20 @@
             "needFuelForAllProductionTime": false,
             "NeedFuelForAllProductionTime": false,
             "RecipeId": "5d5c205bd582a50d042a3c0e"
+          },
+          "62710a0e436dcc0b9c55f4ec": {
+            "Products": [],
+            "Progress": 8360,
+            "inProgress": true,
+            "StartTimestamp": 1787810815,
+            "SkipTime": 0,
+            "ProductionTime": 18240,
+            "GivenItemsInStart": [],
+            "Interrupted": false,
+            "needFuelForAllProductionTime": false,
+            "NeedFuelForAllProductionTime": false,
+            "sptIsScavCase": true,
+            "RecipeId": "62710a0e436dcc0b9c55f4ec"
           }
         },
         "Areas": [
@@ -18616,8 +18610,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 59.5509,
-                        "UnitsConsumed": 0.4491
+                        "Value": 48.2281,
+                        "UnitsConsumed": 1.7719
                       }
                     }
                   }
@@ -18744,11 +18738,11 @@
           },
           {
             "type": 14,
-            "level": 0,
+            "level": 1,
             "active": true,
             "passiveBonusesEnabled": true,
-            "completeTime": 1787756677,
-            "constructing": true,
+            "completeTime": 0,
+            "constructing": false,
             "slots": [],
             "lastRecipe": ""
           },
@@ -19170,7 +19164,7 @@
         "MannequinPoses": {
           "6a76b18e230e7b18c0ddcd5c": "67600aa8e9db590d5601665f"
         },
-        "sptUpdateLastRunTimestamp": 1787810112,
+        "sptUpdateLastRunTimestamp": 1787819175,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -20495,7 +20489,50 @@
       "RagfairInfo": {
         "rating": 49.783114199999936,
         "isRatingGrowing": false,
-        "offers": [],
+        "offers": [
+          {
+            "sellResult": [],
+            "_id": "6a8fd41202201c237096f647",
+            "items": [
+              {
+                "_id": "6a8e18bfba12f620f4a4815f",
+                "_tpl": "5449016a4bdc2d6f028b456f",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                  "StackObjectsCount": 1000000
+                }
+              }
+            ],
+            "requirements": [
+              {
+                "_tpl": "5449016a4bdc2d6f028b456f",
+                "count": 7295010,
+                "onlyFunctional": false
+              }
+            ],
+            "root": "6a8e18bfba12f620f4a4815f",
+            "intId": 76519,
+            "itemsCost": 1,
+            "requirementsCost": 7295010,
+            "startTime": 1787810834,
+            "endTime": 1787854034,
+            "sellInOnePiece": false,
+            "summaryCost": 7295010,
+            "user": {
+              "id": "6a696ca8444e222f482987e5",
+              "nickname": "alechuss",
+              "rating": 49.783114199999936,
+              "memberType": 1026,
+              "selectedMemberCategory": 1024,
+              "isRatingGrowing": false,
+              "aid": 1128104
+            },
+            "loyaltyLevel": 1,
+            "locked": false,
+            "quantity": 1000000
+          }
+        ],
         "sellSum": 275632964,
         "notSellSum": 3792397
       },
@@ -23283,6 +23320,12 @@
           "type": "TextBonus",
           "value": 0,
           "icon": "/files/Hideout/icon_hideout_createitem_bitcoin.png"
+        },
+        {
+          "id": "5d6282d64e7f7ccdcb940567",
+          "type": "TextBonus",
+          "value": 0,
+          "icon": "/files/Hideout/icon_hideout_scavitem.png"
         }
       ],
       "Notes": {
@@ -39326,10 +39369,7 @@
           "text": "Tu oferta de 1 Cuerpo superior Resolute para Mk47 de 7,62x39 mm ha sido comprada por Slickboi.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bdeb11c7d95090c96ec91",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39340,10 +39380,7 @@
           "text": "Tu oferta de 1 Mazo Fierce Blow ★ ha sido comprada por Jiro.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bdeb11c7d95090c96ec95",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39354,10 +39391,7 @@
           "text": "Tu oferta de 1 Pistolete HK Battle Grip con Beavertail para AR-15 ☆ ha sido comprada por MechanicMan396.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bdecf1c7d95090c96fb58",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39368,10 +39402,7 @@
           "text": "Tu oferta de 3 Pistolete Magpul MOE para AR-15 (Negro) ★ ha sido comprada por Clownmaster1995.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bdecf1c7d95090c96fb5c",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39382,10 +39413,7 @@
           "text": "Tu oferta de 1 Pistolete Magpul MOE para AR-15 (Negro) ★ ha sido comprada por MacrossMX7167.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bded91c7d95090c96fb60",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39396,10 +39424,7 @@
           "text": "Tu oferta de 1 Placas balísticas Granit 4RS (Posteriores) (6/50) ★ ha sido comprada por Praxideke.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8be4911c7d95090c9ba34b",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39410,10 +39435,7 @@
           "text": "Tu oferta de 1 Tomahawk táctico SOG Voodoo Hawk ★ ha sido comprada por HB.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8be9e51c7d95090c9db1e7",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39424,10 +39446,7 @@
           "text": "Tu oferta de 1 Fusil de asalto HK 416A5 de 5,56x45 mm ★ ha sido comprada por 52sierra.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea631c7d95090c9dce82",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39438,10 +39457,7 @@
           "text": "Tu oferta de 1 Cargador de 30 cartuchos 5,56x45 mm HK Steel Maritime STANAG para AR-15 ha sido comprada por Big Chungus.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea631c7d95090c9dce86",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39452,10 +39468,7 @@
           "text": "Tu oferta de 1 Culata HK Slim Line para AR-15 ha sido comprada por weeny.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea631c7d95090c9dce8a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39466,10 +39479,7 @@
           "text": "Tu oferta de 1 Cargador de 30 cartuchos 5,56x45 mm HK Steel Maritime STANAG para AR-15 ha sido comprada por 老人.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea811c7d95090c9dce9b",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39480,10 +39490,7 @@
           "text": "Tu oferta de 1 Pistolete HK Battle Grip con Beavertail para AR-15 ☆ ha sido comprada por jiblet.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea811c7d95090c9dce9f",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39494,10 +39501,7 @@
           "text": "Tu oferta de 1 Reductor de fogonazo Colt USGI A2 de 5,56x45 mm para AR-15 ha sido comprada por Clodan.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea811c7d95090c9dcea3",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39508,10 +39512,7 @@
           "text": "Tu oferta de 1 Pistolete Magpul MOE para AR-15 (Negro) ★ ha sido comprada por Bnuy.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea811c7d95090c9dcea7",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39522,10 +39523,7 @@
           "text": "Tu oferta de 1 Palanca de montar HK Extended Latch para AR-15 ☆ ha sido comprada por Radzig.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea811c7d95090c9dceab",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39536,10 +39534,7 @@
           "text": "Tu oferta de 2 Palanca de montar HK Extended Latch para AR-15 ☆ ha sido comprada por Dsnyder.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea861c7d95090c9dceb8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39550,10 +39545,7 @@
           "text": "Tu oferta de 1 Palanca de montar ambidiestra para Mk47 ☆ ha sido comprada por WUVGAWORE.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea8b1c7d95090c9dcec2",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39564,10 +39556,7 @@
           "text": "Tu oferta de 1 Pistolete HK Battle Grip con Beavertail para AR-15 ☆ ha sido comprada por Delod.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea8b1c7d95090c9dcec6",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39578,10 +39567,7 @@
           "text": "Tu oferta de 1 Cuerpo superior para HK 416A5 de 5,56x45 mm ☆ ha sido comprada por APerson.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea8b1c7d95090c9dceca",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39592,10 +39578,7 @@
           "text": "Tu oferta de 1 Tubo amortiguador Enhanced Tube para HK 416 ha sido comprada por archon0ne.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea8b1c7d95090c9dcece",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39606,10 +39589,7 @@
           "text": "Tu oferta de 2 Freno de boca Vendetta Precision VP-09 Interceptor de 5,56x45 mm para AR-15 ☆ ha sido comprada por Waffle.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea8b1c7d95090c9dced2",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39620,10 +39600,7 @@
           "text": "Tu oferta de 1 Reductor de fogonazo Colt USGI A2 de 5,56x45 mm para AR-15 ha sido comprada por Bingus.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bea951c7d95090c9dcf04",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39635,10 +39612,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8beb831c7d95090c9dfb51",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39650,10 +39624,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8beb831c7d95090c9dfb56",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39664,10 +39635,7 @@
           "text": "Tu oferta de 1 Estatuilla de un león de bronce ★ ha sido comprada por cardsmen.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3961c7d95090ca17066",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39678,10 +39646,7 @@
           "text": "Tu oferta de 2 Inyector de estimulante M.U.L.E. ★ ha sido comprada por RivviN.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3961c7d95090ca1706a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39692,10 +39657,7 @@
           "text": "Tu oferta de 1 Materiales de TerraGroup \"Carpetas Azules\" ★ ha sido comprada por HeresJohnny.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3961c7d95090ca17071",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39706,10 +39668,7 @@
           "text": "Tu oferta de 4 Carpeta con documentos de inteligencia ★ ha sido comprada por inory.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3961c7d95090ca1707a",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39720,10 +39679,7 @@
           "text": "Tu oferta de 4 Inyector de adrenalina ★ ha sido comprada por TROMBON.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3961c7d95090ca17080",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39734,10 +39690,7 @@
           "text": "Tu oferta de 1 Thumb drive with military data ☆ ha sido comprada por 红衣抚琴染绛天涯.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3961c7d95090ca17084",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39748,10 +39701,7 @@
           "text": "Tu oferta de 14 Cartucho de .300 Blackout - AP (51/48) ★ ha sido comprada por PreyToLive.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3961c7d95090ca17088",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39762,10 +39712,7 @@
           "text": "Tu oferta de 1 Inyector de estimulante de combate SJ1 TGLabs ★ ha sido comprada por Berryok.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf39b1c7d95090ca17091",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39776,10 +39723,7 @@
           "text": "Tu oferta de 1 Cartucho de 7,62x51 mm - M993 (70/65) ★ ha sido comprada por Panicdots.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf39b1c7d95090ca17095",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39790,10 +39734,7 @@
           "text": "Tu oferta de 1 Inyector de estimulante PNB (Producto 16) ★ ha sido comprada por Myksa.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf39b1c7d95090ca17099",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39804,10 +39745,7 @@
           "text": "Tu oferta de 1 Púa de guitarra Veritas ★ ha sido comprada por YankeeNoodle742.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf39b1c7d95090ca1709d",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39818,10 +39756,7 @@
           "text": "Tu oferta de 1 Libro antiguo y maltratado ★ ha sido comprada por aburiu.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf39b1c7d95090ca170a1",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39832,10 +39767,7 @@
           "text": "Tu oferta de 1 Materiales de TerraGroup \"Carpetas Azules\" ★ ha sido comprada por CheekiBreeki.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf39b1c7d95090ca170a8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39846,10 +39778,7 @@
           "text": "Tu oferta de 15 Cartucho de .300 Blackout - AP (51/48) ★ ha sido comprada por 3371.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf39b1c7d95090ca170ae",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39860,10 +39789,7 @@
           "text": "Tu oferta de 1 Figura de Den ★ ha sido comprada por GromAV.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3a01c7d95090ca170b7",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39874,10 +39800,7 @@
           "text": "Tu oferta de 2 Bitcoin físico ★ ha sido comprada por PureRussianVodka.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3a01c7d95090ca170c9",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39888,10 +39811,7 @@
           "text": "Tu oferta de 1 Gafas de visión nocturna L3Harris GPNVG-18 ★ ha sido comprada por Tyfon.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3a01c7d95090ca170da",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39902,10 +39822,7 @@
           "text": "Tu oferta de 1 Tarjeta gráfica ★ ha sido comprada por Dsnyder.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3a01c7d95090ca170de",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39916,10 +39833,7 @@
           "text": "Tu oferta de 77 Cartucho de 5,56x45 mm - M856 (60/18) ★ ha sido comprada por Gleneth.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3a01c7d95090ca170e2",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39930,10 +39844,7 @@
           "text": "Tu oferta de 7 Cartucho de 7,62x51 mm - M993 (70/65) ★ ha sido comprada por Szonszczyk.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3a01c7d95090ca170e6",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39944,10 +39855,7 @@
           "text": "Tu oferta de 1 Cartucho de .300 Blackout - AP (51/48) ★ ha sido comprada por ItsRenke.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3a01c7d95090ca170ea",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39958,10 +39866,7 @@
           "text": "Tu oferta de 7 Cartucho de 5,56x45 mm - M856 (60/18) ★ ha sido comprada por Tadikas.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3a51c7d95090ca170f0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39972,10 +39877,7 @@
           "text": "Tu oferta de 6 Cartucho de 7,62x51 mm - M993 (70/65) ★ ha sido comprada por MadByte.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3a51c7d95090ca170f4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -39986,10 +39888,7 @@
           "text": "Tu oferta de 13 Cartucho de 5,56x45 mm - M856 (60/18) ★ ha sido comprada por beamyy.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3ab1c7d95090ca170fb",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40000,10 +39899,7 @@
           "text": "Tu oferta de 2 Cartucho de 7,62x51 mm - M993 (70/65) ★ ha sido comprada por PulledP0rk.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3ab1c7d95090ca170ff",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40014,10 +39910,7 @@
           "text": "Tu oferta de 3 Cartucho de 5,56x45 mm - M856 (60/18) ★ ha sido comprada por Valens.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3b01c7d95090ca1711c",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40028,10 +39921,7 @@
           "text": "Tu oferta de 3 Cartucho de 7,62x51 mm - M993 (70/65) ★ ha sido comprada por craink.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3b01c7d95090ca17120",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40042,10 +39932,7 @@
           "text": "Tu oferta de 1 Cartucho de 7,62x51 mm - M993 (70/65) ★ ha sido comprada por floofyyq.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3b51c7d95090ca1713b",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40056,10 +39943,7 @@
           "text": "Tu oferta de 1 Cargador de tambor de 50 cartuchos 7,62x39 mm X Products X-47 para AK ★ ha sido comprada por Colonel.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3c91c7d95090ca17f8c",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40070,10 +39954,7 @@
           "text": "Tu oferta de 3 Cartucho de 7,62x39 mm - MAI AP (53/58) ★ ha sido comprada por wara.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3ca1c7d95090ca17f90",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40084,10 +39965,7 @@
           "text": "Tu oferta de 5 Cartucho de 7,62x39 mm - MAI AP (53/58) ★ ha sido comprada por Mauzy-Mir.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3cf1c7d95090ca17faf",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40098,10 +39976,7 @@
           "text": "Tu oferta de 6 Cartucho de 7,62x39 mm - MAI AP (53/58) ★ ha sido comprada por F1oridaMan.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3d41c7d95090ca17fd4",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40112,10 +39987,7 @@
           "text": "Tu oferta de 1 Paquete de azúcar ★ ha sido comprada por Nootropix.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3d91c7d95090ca17fdc",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40126,10 +39998,7 @@
           "text": "Tu oferta de 2 Cartucho de 7,62x39 mm - MAI AP (53/58) ★ ha sido comprada por clmove.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3d91c7d95090ca17fe0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -40140,10 +40009,7 @@
           "text": "Tu oferta de 2 Cartucho de 7,62x39 mm - MAI AP (53/58) ★ ha sido comprada por Lavax.",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "6a8bf3de1c7d95090ca17fea",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 259200
         },
         {
@@ -41667,10 +41533,7 @@
           "text": "You have received a gift from xBRAZZERSx",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "664113fa049fd2369707c4eb",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
