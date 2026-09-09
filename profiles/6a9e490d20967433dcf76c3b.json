@@ -117,7 +117,7 @@
             }
           }
         },
-        "UpdateTime": 1788924022
+        "UpdateTime": 1788928789
       },
       "Inventory": {
         "items": [
@@ -174,7 +174,7 @@
             "slotId": "5",
             "location": {
               "x": 0,
-              "y": 0,
+              "y": 1,
               "r": "Horizontal"
             }
           },
@@ -842,7 +842,7 @@
             "_id": "6a9e57a571b8a914b0a7d4fd",
             "_tpl": "5a0c27731526d80618476ac4",
             "parentId": "6a9e4dd020967433dcfa5c41",
-            "slotId": "7",
+            "slotId": "5",
             "location": {
               "x": 0,
               "y": 0,
@@ -1707,6 +1707,43 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": true
             }
+          },
+          {
+            "_id": "6aa0d076c3824320681aa028",
+            "_tpl": "544fb45d4bdc2dee738b4568",
+            "parentId": "6a9e4dd020967433dcfa5c41",
+            "slotId": "5",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "6aa0d076c3824320681aa029",
+            "_tpl": "5d02778e86f774203e7dedbe",
+            "parentId": "6a9e4a9c20967433dcf77d46",
+            "slotId": "SpecialSlot1",
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          },
+          {
+            "_id": "6aa0d076c3824320681aa02a",
+            "_tpl": "6034d0230ca681766b6a0fb5",
+            "parentId": "5fe49444ae6628187a2e78b8",
+            "slotId": "hideout",
+            "location": {
+              "x": 3,
+              "y": 12,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
           }
         ],
         "equipment": "6a9e4a9c20967433dcf77d43",
@@ -1716,8 +1753,8 @@
         "questStashItems": "5fe49444ae6628187a2e78ba",
         "hideoutAreaStashes": {},
         "fastPanel": {
-          "Item5": "6a9e670c71b8a914b0ad7ae1",
-          "Item4": "6a9e5f1271b8a914b0aa8a10",
+          "Item5": "6aa0d076c3824320681aa028",
+          "Item4": "6a9e671a71b8a914b0ad7ae4",
           "Item6": "6a9e5f4771b8a914b0ab525a",
           "Item7": "6a9e671671b8a914b0ad7ae3"
         },
@@ -5658,7 +5695,7 @@
         "HideoutCounters": null,
         "Seed": "443ac8c5b6eb78c56b9e58a3eb5b7bb8",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1788924661,
+        "sptUpdateLastRunTimestamp": 1788929475,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -6540,7 +6577,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1726851074,
+        "nextResetTime": 1727455874,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -7302,8 +7339,8 @@
       "_id": "5a7c2eca46aef81a7ca2145d"
     },
     "54cb50c76803fa8b248b4571": {
-      "attachmentsNew": 1,
-      "new": 2,
+      "attachmentsNew": 0,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -7325,39 +7362,11 @@
           "dt": 1788924022,
           "templateId": "5fd4c8b59e4b2a58b34bbd28 0",
           "text": "",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "64b996c9d0de4697180359b6",
-            "data": [
-              {
-                "_id": "6aa0d076c3824320681aa028",
-                "_tpl": "544fb45d4bdc2dee738b4568",
-                "parentId": "64b996c9d0de4697180359b6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6aa0d076c3824320681aa029",
-                "_tpl": "5d02778e86f774203e7dedbe",
-                "parentId": "64b996c9d0de4697180359b6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              },
-              {
-                "_id": "6aa0d076c3824320681aa02a",
-                "_tpl": "6034d0230ca681766b6a0fb5",
-                "parentId": "64b996c9d0de4697180359b6",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 1
-                }
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 172800
         }
@@ -7412,7 +7421,7 @@
     },
     "58330581ace78e27b8b10cee": {
       "attachmentsNew": 0,
-      "new": 1,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
