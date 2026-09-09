@@ -117,7 +117,7 @@
             }
           }
         },
-        "UpdateTime": 1788923933
+        "UpdateTime": 1788929184
       },
       "Inventory": {
         "items": [
@@ -962,7 +962,8 @@
         "hideoutAreaStashes": {},
         "fastPanel": {
           "Item4": "6aa0d01dc3824320681a9fff",
-          "Item5": "6a9e68dc71b8a914b0add4eb"
+          "Item5": "6a9e68dc71b8a914b0add4eb",
+          "Item6": "6aa0d01dc3824320681aa000"
         },
         "favoriteItems": [],
         "hideoutCustomizationStashId": "676db384777490e23c45b657"
@@ -3995,7 +3996,7 @@
         "HideoutCounters": null,
         "Seed": "b87131f45337fa21c6b518c491a4658f",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1788924661,
+        "sptUpdateLastRunTimestamp": 1788929657,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -5356,7 +5357,7 @@
       },
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1726851074,
+        "nextResetTime": 1727023874,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
